@@ -1,0 +1,16 @@
+.loginForm{
+    margin: 50px;
+    justify-content: center;
+    align-items: center;
+    width: 50vh;
+    height: 25vh;
+    background-color: #0d0e18;
+    border-radius: 10px;
+    border: 10px solid #aab9af;
+    padding: 10px 0;
+    box-shadow: 0px 0px 10px #000;     
+    border-bottom: 0px solid;
+    box-sizing: border-box;
+    padding-bottom: 0px;
+    
+    }
